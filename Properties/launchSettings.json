@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "_2206140010004142fa": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7086",
+      "launchBrowser": false
+    }
+  }
+}
